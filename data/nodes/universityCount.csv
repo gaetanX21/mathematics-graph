@@ -1,0 +1,1310 @@
+university,count
+Moscow State University,249
+University of Göttingen,210
+MSU Faculty of Mechanics and Mathematics,178
+University of Cambridge,165
+Harvard University,135
+University of Paris,126
+Humboldt University of Berlin,119
+Princeton University,107
+École Normale Supérieure,100
+Trinity College,89
+Saint Petersburg State University,86
+University of Chicago,84
+University of Vienna,78
+Faculty of Physics and Mathematics of Moscow Imperial University,75
+École polytechnique,73
+Leipzig University,71
+Columbia University,59
+Massachusetts Institute of Technology,50
+Charles University,49
+Frederick William University,49
+University of Warsaw,48
+Ludwig Maximilian University of Munich,47
+"University of California, Berkeley",45
+St John's College,44
+Heidelberg University,43
+University of Oxford,42
+University of Michigan,41
+Faculty of Physics and Mathematics of the Saint Petersburg University,41
+Jagiellonian University,40
+Sapienza University of Rome,40
+Leiden University,40
+University of Wrocław,37
+Eötvös Loránd University,35
+"Mathematics and Mechanics Faculty, St. Petersburg State University",35
+Science Faculty of Paris,35
+Lviv University,34
+ETH Zürich,33
+University of London,33
+University of Königsberg,32
+Yale University,31
+University of Halle-Wittenberg,31
+University of Helsinki,29
+University of Tübingen,28
+University of Tokyo,28
+University of Hamburg,28
+University of Edinburgh,26
+University of Pisa,26
+University of Amsterdam,25
+University of Illinois at Urbana–Champaign,25
+Scuola Normale Superiore,25
+University of Padua,24
+Taras Shevchenko National University of Kyiv,24
+University of Copenhagen,24
+University of Bonn,24
+Cornell University,23
+Johns Hopkins University,23
+Brown University,23
+Hebrew University of Jerusalem,22
+Odesa University,22
+Steklov Institute of Mathematics,21
+California Institute of Technology,21
+University of Jena,21
+New York University,20
+University of Bucharest,20
+University of Wisconsin–Madison,20
+City College of New York,19
+Uppsala University,19
+University of Strasbourg,19
+University of Oslo,19
+Kazan Federal University,19
+University of Turin,19
+University of Bologna,18
+University of Marburg,18
+MSU Faculty of Physics,18
+Stockholm University,18
+University of Münster,18
+National University of Kharkiv,18
+Stanford University,18
+Lycée Louis-le-Grand,17
+University College London,17
+University of Toronto,16
+University of Pennsylvania,16
+University of Erlangen–Nuremberg,16
+University of Texas at Austin,16
+University of Freiburg,15
+University of Basel,14
+"University of California, Los Angeles",14
+"Faculty of Mechanics and Mathematics, Taras Shevchenko National University of Kyiv",14
+Goethe University Frankfurt,14
+Balliol College,14
+Tbilisi State University,14
+Technical University of Berlin,14
+Moscow Institute of Physics and Technology,13
+King's College,13
+Utrecht University,13
+"Faculty of Arts, Charles University in Prague",13
+Rostov State University,13
+TU Wien,13
+University of Zurich,13
+Peterhouse,13
+Ural State University,13
+Harvard College,12
+University of Szeged,12
+Q56709733,12
+École des Ponts ParisTech,12
+Budapest University of Technology and Economics,12
+University of Glasgow,12
+Gonville and Caius College,12
+University of Naples Federico II,12
+University of Kiel,11
+University of Giessen,11
+Novosibirsk State University,11
+Eton College,11
+University of Manchester,11
+Technical University of Munich,11
+Mines ParisTech,11
+Lycée Saint-Louis,10
+University of Debrecen,10
+University of St Andrews,10
+Stuyvesant High School,10
+Moscow State Pedagogical University,10
+Perm State University,10
+Tomsk State University,10
+George Washington University,9
+N. I. Lobachevsky State University of Nizhny Novgorod,9
+Saratov State University,9
+King's College London,9
+Imperial St. Petersburg University,9
+Lund University,9
+St Paul's School,9
+Ohio State University,9
+University of Pavia,9
+University of Tartu,9
+Victoria University of Manchester,9
+University of North Carolina at Chapel Hill,9
+Scuola Normale Superiore. Classe di Scienze,8
+Technische Universität Darmstadt,8
+Kyoto University,8
+University of Groningen,8
+Girton College,8
+University of Washington,8
+University of Virginia,8
+University of Maryland,8
+National and Kapodistrian University of Athens,8
+University of Madras,8
+University of Aberdeen,8
+Leibniz University Hannover,8
+"Faculty of Science, Charles University",8
+University of Liège,8
+Oles Honchar Dnipro National University,8
+Imperial Moscow University,8
+University of Minnesota,7
+University of Greifswald,7
+University of Graz,7
+Bryn Mawr College,7
+Yerevan State University,7
+Collège de France,7
+Delft University of Technology,7
+Voronezh State University,7
+Brooklyn College,7
+Winchester College,7
+University of Coimbra,7
+University of Cologne,7
+McGill University,7
+University of Rostock,7
+Belarusian State University,7
+Indiana University,7
+Trinity College Dublin,7
+Osaka University,7
+Moscow Aviation Institute,7
+Carnegie Mellon University,6
+Herzen University,6
+University of Calcutta,6
+Imperial College London,6
+Baku State University,6
+The Manchester Grammar School,6
+Westminster School,6
+The Queen's College,6
+Bauman Moscow State Technical University,6
+Rice University,6
+Newnham College,6
+Czech Technical University in Prague,6
+Vilnius University,6
+MIPT Department of Control and Applied Mathematics,6
+Comenius University,6
+Adam Mickiewicz University in Poznań,6
+Saint Petersburg State Polytechnical University,6
+University of Iowa,6
+Lycée Janson-de-Sailly,6
+University of Mumbai,6
+Lycée Condorcet,6
+Christ Church,6
+Royal Institute of Technology,6
+École d'application de l'artillerie et du génie,6
+Ghent University,6
+Lviv Polytechnic,5
+Jesus College,5
+University of Belgrade,5
+Australian National University,5
+Imperial University of Kharkov,5
+Imperial University of St. Vladimir,5
+Academic University at the St. Petersburg Academy of Sciences,5
+Purdue University,5
+Northwestern University,5
+University of Łódź,5
+Queen's University Belfast,5
+Oberlin College,5
+Presidency College,5
+University of Lausanne,5
+University of Zagreb,5
+Nagoya University,5
+Tulane University,5
+Central High School,5
+University of Geneva,5
+Deutsche wissenschaftliche Prüfungs-kommission für das Lehramt an Mittelschulen in Prag,5
+Harvard School of Engineering and Applied Sciences,5
+University of Caen Normandy,5
+Masaryk University,5
+University of Buenos Aires,5
+Main Pedagogical Institute,5
+Duke University,5
+Zhejiang University,5
+Polytechnic University of Milan,5
+Technical University of Braunschweig,5
+Imperial University of Dorpat,5
+Tsinghua University,4
+Oslo Cathedral School,4
+London School of Economics and Political Science,4
+Bestuzhev Courses,4
+Illinois Institute of Technology,4
+"Faculty of Science, University of Zagreb",4
+"Birkbeck, University of London",4
+Hungarian Academy of Sciences,4
+Pembroke College,4
+Prytanée National Militaire,4
+Polish Academy of Sciences,4
+Tohoku University,4
+Politehnica University of Bucharest,4
+Fu Foundation School of Engineering and Applied Science,4
+Syracuse University,4
+Technical University of Denmark,4
+Examination Board for Teachers at Secondary Schools of Charles University,4
+University of Sydney,4
+Magdalene College,4
+Tübinger Stift,4
+Smith College,4
+Merton College,4
+Courant Institute of Mathematical Sciences,4
+University of Florence,4
+Case Western Reserve University,4
+Akademisches Gymnasium,4
+University of Montpellier,4
+University of Milan,4
+University of Cincinnati,4
+Magdalen College,4
+Zhukovsky Air Force Engineering Academy,4
+Saint Petersburg Mining Institute,4
+Lycée Henri-IV,4
+University of Kansas,4
+University of Latvia,4
+Clare College,4
+University of Ljubljana,4
+University of Colorado,4
+Carnegie Institute of Technology,4
+Graz University of Technology,4
+University of Auckland,4
+University of Stuttgart,4
+Warsaw University of Technology,4
+Instituto Nacional de Matemática Pura e Aplicada,4
+Iowa State University,4
+Irkutsk State University,4
+National University of Uzbekistan,4
+National University of San Marcos,4
+University of Oregon,4
+University of Bern,4
+Amherst College,4
+National Autonomous University of Mexico,4
+Emmanuel College,4
+Babeș-Bolyai University,4
+Kazan Imperial University,4
+Moscow Power Engineering Institute,4
+Rugby School,3
+Royal Belfast Academical Institution,3
+Queens' College,3
+Riga Technical University,3
+RWTH Aachen University,3
+Harrow School,3
+Hebrew Reali School,3
+Queen's University,3
+Russian Academy of Sciences,3
+Christ's Hospital,3
+Presidency University,3
+Moscow Theological Academy,3
+lycée Henri-Poincaré,3
+Lycée Faidherbe,3
+Lycée Pierre-Corneille,3
+"faculty of science, German University in Prague",3
+Maria Curie-Skłodowska University,3
+King's College School,3
+Al-Farabi Kazakh National University,3
+King Edward's School,3
+Mikhailovskaya Military Artillery Academy,3
+Moldova State University,3
+Alexandru Ioan Cuza University,3
+Karlsruhe Institute of Technology,3
+Pontifical Gregorian University,3
+Kansas State University,3
+Johannes Gutenberg University Mainz,3
+Nicolaus Copernicus University in Toruń,3
+Oregon State University,3
+Indian Statistical Institute,3
+Paris Diderot University,3
+Imperial University of Warsaw,3
+Imperial University of Vilna,3
+Phillips Academy,3
+Pierre and Marie Curie University,3
+Hunter College,3
+Université libre de Bruxelles,3
+Smolensk State University,3
+Louisiana State University,3
+The Second Saint Petersburg Gymnasium,3
+First Moscow gymnasium,3
+Temple University,3
+Tel Aviv University,3
+Central Foundation Boys' School,3
+Technion – Israel Institute of Technology,3
+Free University of Amsterdam,3
+Conservatoire national des Arts et Métiers,3
+University of Barcelona,3
+University of Georgia,3
+Friedrich-Wilhelms-Gymnasium,3
+Tata Institute of Fundamental Research,3
+Collège-lycée Jacques-Decour,3
+Collège des Quatre-Nations,3
+TU Dresden,3
+Swarthmore College,3
+The Catholic University of America,3
+Fazekas Mihály Gimnázium,3
+Collège de Navarre,3
+University of Cape Town,3
+Brandeis University,3
+University of Altdorf,3
+University of Salamanca,3
+University of Poitiers,3
+University of Belgrade Faculty of Philosophy,3
+Edinburgh Academy,3
+University of Southern California,3
+University at Buffalo,3
+"University College of Science, Technology & Agriculture",3
+Boston Latin School,3
+"Faculty of Mathematics and Physics, Charles University",3
+"Faculty of Physics, State University of Saint Petersbourg",3
+University of Bristol,3
+Blundell's School,3
+University of British Columbia,3
+Supélec,3
+University of Angers,3
+George Watson's College,3
+University of Wittenberg,3
+Slavic Greek Latin Academy,3
+Somerville College,3
+University of Leeds,3
+University of Lisbon,3
+Collège Stanislas de Paris,3
+"St Catharine's College, Cambridge",3
+Clark University,3
+University of Würzburg,3
+Bartłomiej Nowodworski High School,3
+College of Philosophy of the Prague German University,3
+Chernivtsi University,3
+University of Helmstedt,3
+Christ's College,3
+"University of Michigan College of Literature, Science, and the Arts",3
+University of Melbourne,3
+Bedford College,3
+University of Liverpool,2
+University of Berlin,2
+National Technical University of Athens,2
+Lycée Buffon,2
+Loyola College,2
+University of Bergen,2
+Luitpold-Gymnasium,2
+National Pedagogical Dragomanov University,2
+lycée du Parc,2
+Muhlenberg College,2
+École Centrale Paris,2
+N.G. Kuznetsov Naval Academy,2
+University of Paris-Sud,2
+University of Manitoba,2
+École Navale,2
+National Center for Scientific Research,2
+Western University,2
+University of Birmingham,2
+University of Otago,2
+Worcester Polytechnic Institute,2
+Wöhlerschule,2
+Marlborough College,2
+Zhejiang Wenzhou High School,2
+Lycée Thiers,2
+University of Illinois system,2
+University of Ingolstadt,2
+Lycée Malherbe,2
+University of Innsbruck,2
+University of Florida,2
+University of Massachusetts Amherst,2
+University of Nebraska–Lincoln,2
+University of New South Wales,2
+Methodist College Belfast,2
+University of Jyväskylä,2
+University of Dublin,2
+Mikhailovsky Artillery School,2
+University of New Zealand,2
+University of Burgundy,2
+Lycée Charlemagne,2
+Lycée Chaptal,2
+University of Genoa,2
+Université de Nancy,2
+University of Arkansas,2
+University of Toulouse,2
+Polytechnic University of Turin,2
+Vassar College,2
+University of Warwick,2
+Pázmány Péter Catholic University,2
+Q15646808,2
+Varvakeio,2
+Stephen Báthory University,2
+Stefan Batory Gymnasium and Lyceum,2
+Stedelijk Gymnasium Leiden,2
+St. Petersburg State Transport University,2
+Radcliffe College,2
+Reed College,2
+St Leonards School,2
+Uzhhorod National University,2
+Ural Federal University,2
+Royal Academy of Turku,2
+Southern Federal University,2
+Royal College of Science,2
+Sofia University,2
+Sir George Monoux College,2
+"Royal Military Academy, Woolwich",2
+Sidney Sussex College,2
+Sharif University of Technology,2
+Rutgers University,2
+Sedbergh School,2
+Saint Petersburg State Institute of Technology,2
+Second Kyevan gymnasium,2
+University of the Witwatersrand,2
+Samara State University,2
+University of Turku,2
+Tavrida National V.I. Vernadsky University,2
+National University of Science and Technology,2
+Teachers College,2
+New College,2
+West Virginia University,2
+Wesleyan University,2
+New York University Tandon School of Engineering,2
+"New-York Central College, McGrawville",2
+University of Alberta,2
+Newcastle University,2
+University of Alabama,2
+San Diego State University,2
+University College Dublin,2
+Wadham College,2
+Old University of Leuven,2
+Universidad Central,2
+Union College,2
+Trinity Hall,2
+Townsend Harris High School,2
+Osmania University,2
+Pachaiyappa's College,2
+University of São Paulo,2
+"Paris Observatory, PSL University",2
+Thomasschule zu Leipzig,2
+Theodore Roosevelt High School,2
+Vyatka men's gymnasium,2
+The Bronx High School of Science,2
+Peking University,2
+Technische Hochschule Berlin,2
+Perth Academy,2
+University of Tehran,2
+Platov South-Russian State Polytechnic University,2
+North Carolina State University,2
+"""King Ferdinand I"" University",2
+George Heriot's School,2
+Czechoslovak Academy of Sciences,2
+Gymnasium St. Augustin,2
+Faculté de médecine de Paris,2
+Gymnasium Erasmianum,2
+King Edward VII School,2
+Institute for Advanced Study,2
+Fasori Gimnázium,2
+Corpus Christi College,2
+Institut Henri Poincaré,2
+Kingswood School,2
+Complutense University of Madrid,2
+Felsted School,2
+Brno University of Technology,2
+"Indian Institute of Science, Bengaluru",2
+Government College University,2
+Alte Nikolaischule (Leipzig),2
+Bundesgymnasium Döbling,2
+Krzemieniec Lyceum,2
+King Edward VI College Stourbridge,2
+Gymnasium Theodorianum,2
+Aligarh Muslim University,2
+D. Mendeleev University of Chemical Technology of Russia,2
+Bashkir State University,2
+Istanbul University,2
+Baltimore Polytechnic Institute,2
+Ion Creangă Pedagogical State University,2
+Ethical Culture Fieldston School,2
+Exeter College,2
+F. E. Dzerzhinsky Naval Engineering Academy,2
+Juilliard School,2
+Dragon School,2
+Faculty of Arts of Paris,2
+Bembridge School,2
+Auburn University,2
+Kaiserin Augusta Gymnasium,2
+Kamianets-Podilskyi Boys Gymnasium,2
+Berzsenyi Dániel High School (Budapest),2
+Helsingin Suomalainen Yhteiskoulu,2
+Institute of Red Professors,2
+Collegium Fridericianum,2
+Barnard College,2
+French Academy of Sciences,2
+Clifton College,2
+Aberdeen Grammar School,2
+Academy of Saumur,2
+Gettysburg College,2
+Chestnut Hill College,2
+Igor Sikorsky Kyiv Polytechnic Institute,2
+Charterhouse School,2
+Fürstenschule Heilsbronn,2
+Catholic University of Leuven,2
+Französisches Gymnasium Berlin,2
+Carol I National College,2
+Free University of Brussels,2
+City University of New York,2
+Freie Universität Berlin,2
+Laval University,2
+Köllnisches Gymnasium,2
+Francisk Skorina Gomel State University,2
+Gelehrtenschule des Johanneums,2
+Denison University,1
+University of Catania,1
+Derby School,1
+Demidov Juridical Lyceum,1
+University of Kerala,1
+University of Kentucky,1
+Doane University,1
+Dollar Academy,1
+University of Chile,1
+DePaul University,1
+University of Cincinnati College of Medicine,1
+DePauw University,1
+Cleveland State University,1
+Dover High School,1
+University of Kent,1
+Chuvashia State University of pedagogy,1
+Durham University,1
+Dulwich Prep London,1
+City Gymnasium,1
+University of Bourges,1
+University of Bremen,1
+Dulwich College,1
+Druid Hills High School,1
+University of Lille,1
+Drogheda Grammar School,1
+City of London School,1
+City of Oxford High School for Boys,1
+Clark Atlanta University,1
+Downe House,1
+Clarke University,1
+Dartmouth College,1
+University of Hull,1
+Dallam School,1
+College of Juilly,1
+Colegio Divina Pastora,1
+Colyton Grammar School,1
+Colgate University,1
+Columbia University Mailman School of Public Health,1
+Columbia College,1
+Collège d’Harcourt,1
+Collège du Mont,1
+Collège de Lisieux,1
+Dalhousie University,1
+College of Saint Benedict and Saint John's University,1
+Collège Sainte-Barbe,1
+Collège Calvin,1
+University of Ibadan,1
+University of Harderwijk,1
+University of Havana,1
+College of the Holy Cross,1
+Colchester Royal Grammar School,1
+East Riding College,1
+Cornell College,1
+University of Franeker,1
+University of Colorado Boulder,1
+University of Connecticut,1
+University of Karachi,1
+College of Sorbonne,1
+University of Deusto,1
+Cumberland University,1
+University of Düsseldorf,1
+Cranleigh School,1
+University of Erfurt,1
+Crane High School,1
+University of Exeter,1
+University of Ferrara,1
+Cotham School,1
+Coburn Classical Institute,1
+Colby College,1
+Cooper Union,1
+Facultad de Filosofía y Letras de la Universidad de Buenos Aires,1
+Eastbourne College,1
+Eastern High School,1
+Texas State University,1
+Texas Tech University,1
+First Gymnasium Maribor,1
+First Cadet Corps,1
+The Citadel (South Carolina),1
+"The Downs, Malvern College Prep School",1
+The First Saint-Petersburg Gymnasium,1
+The Glasgow Academy,1
+"The King's School, Grantham",1
+The Leelanau School,1
+First Belgrade Gymnasium,1
+The Mary Erskine School,1
+The Mount School (York),1
+The Open University,1
+The Perse School,1
+Fettes College,1
+Fergusson College,1
+Fergana state university,1
+Theresian Military Academy,1
+Theresianum,1
+Thornwood Primary School,1
+Tepper School of Business,1
+"First gymnasium, Ternopil",1
+Fitzwilliam College,1
+Tajik National University,1
+Suvorov Military School in Tula,1
+Svenska normallyceum,1
+Swiss Federal Institute of Technology in Lausanne,1
+Sydney Boys High School,1
+Gaylord High School,1
+Szkoła Mazowiecka,1
+Szkoła realna w Sosnowcu,1
+Friends University,1
+Taganrog Technological Institute of Southern Federal University,1
+Friedrichswerder Gymnasium,1
+Technische Universität Ilmenau,1
+Friedrich-Wilhelms-Gymnasium  of Posen,1
+Frensham Heights School,1
+Taylor Allderdice High School,1
+Freiberg University of Mining and Technology,1
+Technical University of Stuttgart,1
+Fort Valley State University,1
+Technische Hochschule,1
+Forfar Academy,1
+Florida State University,1
+Tiffin School,1
+Federal University of Rio de Janeiro,1
+Tokyo Imperial University,1
+University of Adelaide,1
+Faculty of Philosophy in the Lviv University,1
+United States Naval Academy,1
+"Faculty of Philosophy and Sociology, University of Warsaw",1
+Universidad de la República,1
+Faculty of Mathematics and Natural Sciences  of University of Lviv,1
+"Faculty of Law, Saint Petersburg State University",1
+"Faculty of Law, German University in Prague",1
+University High School,1
+"Faculty of Law and Administration, University of Warsaw",1
+Christianeum Hamburg,1
+Uhland-Gymnasium Tübingen,1
+Evangelical Seminaries of Maulbronn and Blaubeuren,1
+Erasmus Hall High School,1
+Emperor Nicholas II University of Technology,1
+Emperor Alexander Institute of Railway Engineers,1
+Emory and Henry College,1
+Elphinstone College,1
+Eliot House,1
+University of Belgrade School of Electrical Engineering,1
+Eastside High School,1
+Ukrainian Physics and Mathematics Lyceum,1
+USC Viterbi School of Engineering,1
+Tokyo Institute of Technology,1
+Faculty of Social Sciences of Moscow State University,1
+Tomsk Polytechnic University,1
+Top Courses for Scriptwriters and Film Directors,1
+Totnes Grammar School,1
+Tottenham Grammar School,1
+Town Higher Secondary School,1
+Farzanegan School,1
+Trenton Central High School,1
+Trinity Academy,1
+Faculté de théologie de Paris,1
+Trinity School,1
+USC School of Cinematic Arts,1
+Faculty of Science and Mathematics,1
+Tufts University,1
+Tufts University School of Engineering,1
+Faculty of Physics of the Lviv University,1
+"Turin Conservatory ""Giuseppe Verdi""",1
+Tver seminary,1
+Twyford School,1
+Télécom Paris,1
+"Faculty of Philosophy, Sciences and Social Sciences of the University of São Paulo",1
+Churchill College,1
+Lincoln Park High School,1
+University of Luxembourg,1
+Wofford College,1
+Washington State University,1
+Washington University in St. Louis,1
+Watford Grammar School for Boys,1
+Wayne State University,1
+Weizmann Institute of Science,1
+"Wesley College, Sheffield",1
+Wesleyan College,1
+Antioch College,1
+West Newton English and Classical School,1
+West University of Timișoara,1
+West Virginia State University,1
+Annan Academy,1
+American University,1
+Altstadt Gymnasium,1
+Wheaton College,1
+Wilberforce University,1
+Willem Lodewijk Gymnasium,1
+William Ellis School,1
+Williams College,1
+Altes Gymnasium,1
+Wisconsin State College of Milwaukee,1
+Washington Adventist University,1
+Antioch University,1
+Warsaw 5th Gymnasium,1
+Victoria University of Wellington,1
+Van Mildert College,1
+Vanderbilt University,1
+Atlantic International University,1
+Athénée de Luxembourg,1
+Vasyl' Stus Donetsk National University,1
+Veres Palne High School,1
+Victoria College,1
+"Victoria College, Belfast",1
+Askanian Gymnasium,1
+Vienna Observatory,1
+Wardlaw-Hartridge School,1
+Vikram University,1
+Asbury University,1
+Virginia Tech,1
+Arts et Métiers ParisTech,1
+Vrije Universiteit Brussel,1
+Arsenal Technical High School,1
+Aorere College,1
+Walden School,1
+Waltham High School,1
+Wittelsbacher-Gymnasium München,1
+Wolverhampton Grammar School,1
+VI High School – King Sigismund Augustus,1
+Woodbridge School,1
+lycée Montesquieu,1
+Abraham Lincoln High School,1
+nLeningrad State Pedagogical Institute M.N. Pokrovsky,1
+professor seminary,1
+school No. 9,1
+seminary,1
+state school,1
+Aberystwyth University,1
+Abbotsholme School,1
+École Spéciale d'Architecture,1
+Aarhus Katedralskole,1
+Aalto University,1
+École nationale supérieure de chimie de Mulhouse,1
+École nationale supérieure de l'aéronautique et de l'espace,1
+École normale,1
+École normale supérieure Paris-Saclay,1
+École normale supérieure de Fontenay-aux-Roses,1
+École normale supérieure de Saint-Cloud,1
+École normale supérieure de jeunes filles,1
+A. T. Laurian National College,1
+École polytechnique de Bruxelles,1
+Academia Sinica,1
+lycée Georges-Clemenceau,1
+homeschooling,1
+Yale School of Engineering & Applied Science,1
+Wrocław University of Science and Technology,1
+Wuhan University,1
+Wyggeston Grammar School for Boys,1
+Wyggeston and Queen Elizabeth I College,1
+Altai State Pedagogical Academy,1
+XIV High School of Stanislaw Staszic in Warsaw,1
+Xavier University of Louisiana,1
+Xiamen University,1
+Yale College,1
+Yaroslavl State Pedagogical University,1
+collège Henri-IV de La Flèche,1
+Albion College,1
+Yeshiva University,1
+Zakir Husain Delhi College,1
+Zemun Gymnasium,1
+Albert Chatelet High School,1
+Aix University,1
+Ackworth School,1
+boys' gymnasium in Tomsk,1
+church school,1
+VI Liceum Ogólnokształcące im. Tadeusza Reytana,1
+Auckland Grammar School,1
+"Christian Brothers Grammar School, Omagh",1
+Boys' Gymnasium Chernihiv,1
+University of Nottingham,1
+Cambridge Rindge and Latin School,1
+University of Orléans,1
+Byron House School,1
+Bundesrealgymnasium Linz Fadingerstraße,1
+University of Ottawa,1
+Bukhara University,1
+University of Palermo,1
+Buckingham Browne & Nichols School,1
+University of Paris 1 Pantheon-Sorbonne,1
+University of Parma,1
+Britannia Royal Naval College,1
+Bristol Grammar School,1
+University of Pennsylvania School of Engineering and Applied Science,1
+Bristol College,1
+University of Pittsburgh,1
+Brasenose College,1
+University of Prayagraj,1
+University of Rennes,1
+University of Richmond,1
+University of Rochester,1
+University of Notre Dame,1
+University of North Texas,1
+University of North Dakota,1
+Cheltenham College,1
+University of Madrid,1
+Christelijk Gymnasium Sorghvliet,1
+"Christ Church College, Kanpur",1
+Christ Church Cathedral School,1
+Chopin University of Music,1
+Chittagong Collegiate School and College,1
+University of Massachusetts Lowell,1
+Chinese Academy of Sciences,1
+Chesterfield Grammar School,1
+Chekhov Gymnasium,1
+Cambridgeshire High School for Boys,1
+University of Minnesota Duluth,1
+"Sutton High School, Plymouth",1
+University of Missouri–Kansas City,1
+University of Modena and Reggio Emilia,1
+Central School in Bucharest,1
+Cavendish Laboratory,1
+Carolinum,1
+Cardozo Education Campus,1
+University of Nice Sophia Antipolis,1
+Brahmo Boy's School,1
+University of Salford,1
+Utica Free Academy,1
+University of Santiago de Compostela,1
+Bedford Modern School,1
+Bedales School,1
+University of Western Australia,1
+Bates College,1
+Barts and The London School of Medicine and Dentistry,1
+Baron Byng High School,1
+University of Zaragoza,1
+Bar-Ilan University,1
+University of the District of Columbia,1
+University of the Pacific,1
+University of the Punjab,1
+Banícka akadémia,1
+Banaras Hindu University,1
+Université catholique de Louvain,1
+Balmoral School,1
+Upper Moreland High School,1
+Baku Polytechnicum,1
+Azerbaijan State Pedagogical University,1
+Ural State Pedagogical University,1
+Ayer High School,1
+Utah State University,1
+Bedford School,1
+Belarusian State University of Informatics and Radioelectronics,1
+Belmont High School,1
+Bolyai University,1
+University of Sarajevo,1
+University of Science and Technology of China,1
+University of Seville,1
+University of Sheffield,1
+Boys High School,1
+Bound Brook High School,1
+Boston College High School,1
+Boston College,1
+Bootham School,1
+Blagoveshchensk State Pedagogical University,1
+University of Vermont,1
+Bishop's Stortford College,1
+Bingley Grammar School,1
+Beverly Hills High School,1
+University of Texas at Dallas,1
+Bethany College,1
+Berkhamsted School,1
+Berkeley High School,1
+Benjamin Franklin High School,1
+University of Valladolid,1
+University of Missouri,1
+Stephen I of Hungary High School,1
+Surbiton High School,1
+Nizam College,1
+Newark Academy,1
+Newcastle High School for Girls,1
+Irkutsk State Pedagogical College,1
+Newcome's School,1
+Newton North High School,1
+Newtown High School,1
+Nicholas Academy of Engineering,1
+Ioffe Institute,1
+Niels Bohr Institute,1
+Nikolay engineering school,1
+Nizhny Novgorod Institute of nobility,1
+"Piarist High School, Timișoara",1
+Nizhyn Gymnasium of Higher Education,1
+Noble and Greenough School,1
+Normal School for Colored Girls,1
+Norra Real,1
+Internado Nacional Barros Arana,1
+North Division High School,1
+North Ossetian State University,1
+North Park University,1
+North-Eastern Hill University,1
+Northwest Missouri State University,1
+J. W. Hallahan Catholic Girls High School,1
+JFS,1
+New End Primary School,1
+New College of Florida,1
+Ján Francisci-Rimavský Gymnasium,1
+Nancy-Université,1
+Naniwa Junior/Senior High School,1
+Nanjing University,1
+Nankai University,1
+Joint Institute for Nuclear Research,1
+John Marshall Metropolitan High School,1
+National Polytechnic University of Armenia,1
+National Research Nuclear University,1
+National Southwestern Associated University,1
+John H. Francis Polytechnic High School,1
+National Tsing Hua University,1
+National University of Colombia,1
+Johanneum Lüneburg,1
+Johanneum Breslau,1
+Johann-Peter-Hebel-Grundschule,1
+Jana Kreczmara Gymnasium,1
+Jan Neruda Grammar School,1
+Naval Cadet Corps,1
+Neville's Cross Primary School,1
+Jan III Sobieski High School in Kraków,1
+Novo Mesto Grammar School,1
+Institute of Physical Chemistry,1
+Nya svenska samskolan,1
+Paris Institute of Statistics,1
+Imperial and Royal Technical Military Academy,1
+Paris-Sorbonne University - Paris IV,1
+Park University,1
+Parlatore,1
+Parsons Mead School,1
+Paston College,1
+Pate's Grammar School,1
+Peabody School,1
+Pedagogical Faculty of the Belarusian State University,1
+Imperial Moscow Technical School,1
+Imperial Alexander University,1
+Pennsylvania State University,1
+Pensionnat normal,1
+Perm State Humanitarian Pedagogical University,1
+Ilford County High School,1
+Perm Theological Seminary,1
+IV Liceum i Gimnazjum im. Henryka Sienkiewicza w Krakowie,1
+Phenix High School,1
+Philanthropin Frankfurt am Main,1
+I.M. Sechenov First Moscow State Medical University,1
+Phillips Exeter Academy,1
+Paris Law Faculty,1
+Inchmarlo,1
+O'Connell School,1
+Paris 8 University,1
+Oakwood Friends School,1
+Oberlin Academy,1
+Institute of Mathematics of the National Academy of Sciences of Ukraine,1
+Obninsk Institute for Nuclear Power Engineering,1
+Odesa National Music Academy,1
+Institute of Mathematics in Chinese Academy of Sciences,1
+"3 Shevchenka Street, Kropyvnytskyi",1
+Okayama Junior and Senior High School,1
+Oklahoma Baptist University,1
+Oklahoma State University–Stillwater,1
+Old Grammar School,1
+Old University of Orléans,1
+Institut auf dem Rosenberg,1
+Institut Montana Zugerberg,1
+Indiana University Bloomington,1
+Indian Institute of Technology Kanpur,1
+Otago Boys' High School,1
+Otterbein University,1
+Page Corps,1
+Palacký University Olomouc,1
+Panzano Observatory,1
+Music and Dance Faculty of the Academy of Performing Arts in Prague,1
+Musashi Junior & Senior High School,1
+Mundelein College,1
+Landau Institute for Theoretical Physics,1
+Lancaster Royal Grammar School,1
+Lycée Jean-Baptiste-Say,1
+Lycée Joffre,1
+Lycée Lakanal,1
+Lady Barn House School,1
+L.Clas.Vico Di Napoli,1
+"Lycée Michelet, Vanves",1
+Lycée Montaigne,1
+Lycée Notre Dame de Sion Istanbul,1
+Kyushu University,1
+Kyrgyz National University,1
+M Street High School,1
+Kyoto Imperial University,1
+MIPT Department of General and Applied Physics,1
+MIPT Department of Radio Engineering and Cybernetics,1
+MSU Faculty,1
+MSU Faculty of Computational Mathematics and Cybernetics,1
+Kyiv-Mohyla Academy,1
+Kursk State University,1
+Madison Central High School,1
+Kursk Men's Gymnasium,1
+Lycée Hoche,1
+Lycée Fustel-de-Coulanges (Strasbourg),1
+Malvern Collegiate Institute,1
+Lycée François-Arago,1
+Lincoln College,1
+Longwood University,1
+Los Angeles City College,1
+Los Angeles High School,1
+Liepāja Gymnasium,1
+Lowell High School,1
+Lichtwarkschule,1
+Lubrański Academy,1
+Liceum Ogólnokształcące im. Michała Kosmowskiego w Trzemesznie,1
+Luisengymnasium Berlin,1
+Luitpold Gymnasium,1
+Liceo Torquato Tasso,1
+Lessing-Gymnasium,1
+Leominster High School,1
+Leighton Park School,1
+"Lyceum ""Second school""",1
+Leibniz-Gymnasium,1
+Lehigh University,1
+Lateinschule,1
+Lycée Fabert,1
+Landesschule Pforta,1
+Kreuzschule,1
+Marco Foscarini (An. Convitto),1
+Mulberry High School,1
+"Military Academy of Radiation, Chemical and Biological Defense and Engineer Forces",1
+Milton Academy,1
+Ministry of Defense building,1
+Minot State University,1
+Moise Nicoară National College,1
+King Alfred School,1
+Monkton Combe School,1
+Montessori Lyceum Amsterdam,1
+Kenyon College,1
+Kazan Theological Academy,1
+Kazan State Technical University named after A. N. Tupolev,1
+"Moscow School of Painting, Sculpture and Architecture",1
+Moscow State Automobile and Road University of Technology,1
+Moscow State Institute of Electronics and Mathematics,1
+Kazakh National Pedagogical University,1
+Kazakh National Agrarian University,1
+Katedralskolan,1
+Moscow University's Department of Philosophy,1
+Mount Holyoke College,1
+Mount Pleasant Classical Institute,1
+Mozhaysky Air Force Academy,1
+Kansas City Kansas Community College,1
+Military academy of strategic rocket forces,1
+King Edward VI Community College,1
+Konstantinovsky Surveying Institute,1
+"King Edward VI High School for Girls, Birmingham",1
+Maria-Theresia-Gymnasium,1
+Marienstiftsgymnasium,1
+Marischal College,1
+Markgraf-Ludwig-Gymnasium,1
+Marlboro College,1
+Konan Junior High School and  High School,1
+Marquette University,1
+Mars Hill University,1
+Mary Institute and St. Louis Country Day School,1
+Masaryk University Faculty of Science,1
+Kingsgrove North High School,1
+King William's College,1
+Maximiliansgymnasium München,1
+King James I Academy,1
+McKendree University,1
+McMaster University,1
+Melbourne High School,1
+Mercyhurst University,1
+King Edward VI School,1
+Miami University,1
+Michigan State University,1
+Phoenix High School,1
+Hyndland Secondary School,1
+Summit High School,1
+Semmelweis University,1
+Gymnázium Elgartova,1
+Gymnasium an der Stadtmauer,1
+Schenley High School,1
+Schneekloths Skole,1
+"School of Medicine, University of Manchester",1
+Scott Christian College,1
+Gymnasium No. 17,1
+Gymnase de La Cité Lausanne,1
+Guilford College,1
+Seddon Memorial Technical College (Former),1
+Sevastopol State University,1
+Pietro Verri High School,1
+Severna Park High School,1
+Shanghai Jiao Tong University,1
+Guerrier Courses,1
+Sheffield Scientific School,1
+Sherborne School,1
+Shrewsbury School,1
+Gubkin University,1
+Simbirsk Chuvash teacher's school,1
+Grozny State Oil Technical University,1
+Sir Joseph Williamson's Mathematical School,1
+San Diego High School,1
+Samuel J. Tilden High School,1
+Samarkand State University,1
+Gymnázium Uherské Hradiště,1
+Russian University of Transport,1
+Hampton University,1
+Rutgers University–New Brunswick,1
+Ryazan Military Artillery School,1
+Saarland University,1
+"Saint Ignatius' College, Riverview",1
+Saint John's Preparatory School,1
+Saint Mary Magdalene High School in Poznań,1
+Saint Peter's School,1
+Saint Petersburg Academy of Sciences,1
+Saint Petersburg Conservatory,1
+Saint Petersburg Lyceum 239,1
+Hamline University,1
+Saint Petersburg Mining University,1
+Saint Petersburg Polytechnic Institute,1
+Saint Petersburg State Electrotechnical University,1
+Haberdashers' Aske's Boys' School,1
+HEC Paris,1
+HEC Montréal,1
+"Saint Petersburg State University of Information Technologies, Mechanics and Optics",1
+Saint Petersburg Theological Academy,1
+Skt. Jørgens Gymnasium,1
+Grinnell College,1
+Slovak Academy of Sciences,1
+St. John's Diocesan Girls' Higher Secondary School,1
+St. Paul Academy and Summit School,1
+St. Petersburg Naval Institute,1
+St. Petersburg Practical Institute of Technology,1
+"Gheorghe Șincai National College, Bucharest",1
+"St. Stanislaus Kostka College, Málaga",1
+St. Vladimir Seminary Feofanovskaya,1
+Stadtgymnasium Halle,1
+Gheorghe Lazăr National College,1
+State National Research Polytechnical University of Perm,1
+Ghana National College,1
+German University in Prague,1
+Georgia Institute of Technology,1
+Liverpool Collegiate School,1
+Stevens Institute of Technology,1
+Steyning Grammar School,1
+Stiftsgymnasium Melk,1
+Georgetown University,1
+Stockport Grammar School,1
+Stratford School,1
+Streatham and Clapham High School,1
+George W. Stearns High School,1
+St. Mary's High School,1
+St. John's College High School,1
+Grenoble Alpes University,1
+St. Bartholomew Major College,1
+GrandSeminary Mechelen,1
+"Government Arts College, Kumbakonam",1
+Sorbonne,1
+South African College Schools,1
+South High Community School,1
+Gourock High School,1
+Specialized Educational Scientific Center of NSU,1
+Gordonstoun,1
+St Catherine's College,1
+St Faith's School,1
+St George's School,1
+St Hugh's College,1
+Godolphin School,1
+Glasgow Academy,1
+St Mary Hall,1
+St Paul's Girls' School,1
+Gilberd School,1
+St Peter's College,1
+St Peter's School,1
+St Stanislaus' College,1
+St. Andrew's College,1
+Russian State Geological Prospecting University,1
+Handelshochschule Berlin,1
+Ruhr University Bochum,1
+High School of Dundee,1
+Q106947038,1
+Q107650838,1
+Q108673187,1
+Q11143144,1
+Q11670793,1
+Q11925749,1
+Q13133789,1
+Q13389335,1
+Q15255416,1
+High School No. 1 in Bydgoszcz,1
+Q16377455,1
+Q16414336,1
+Q16648126,1
+Q16713603,1
+Q1796186,1
+Q23675254,1
+Q24931218,1
+Q28598846,1
+Q28666768,1
+Q2983840,1
+Q3268823,1
+Q104290716,1
+Highgate School,1
+Q4201579,1
+Pulkovo Observatory,1
+Pingry School,1
+Hunter College High School,1
+Plekhanov Russian Economic University,1
+Pokrowski Gymnasium,1
+Hugo Treffner Gymnasium,1
+Horace Mann School,1
+Hopkins School,1
+Holy Cross College,1
+Polytechnikum Karlsruhe,1
+Pomona College,1
+Hofstra University,1
+Pontifical Lateran University,1
+Pontifical University of Saint Thomas Aquinas,1
+Pontifícia Universidade Católica do Rio Grande do Sul,1
+Poole Grammar School,1
+Portuguese Military Academy,1
+Hoch Conservatory,1
+Hindu School,1
+Hindu Higher Secondary School,1
+Professors of the medical faculty of Moscow University,1
+Hillcrest Grammar School,1
+Q4031944,1
+Q4348487,1
+Handsworth Grammar School,1
+Reformed College of Debrecen,1
+Hellenic Military Academy,1
+Richard Hale School,1
+Richelieu Lyceum,1
+Richmond School,1
+Heilige Drievuldigheidscollege,1
+Ripon Grammar School,1
+Robert Gordon's College,1
+Roman College,1
+Roosevelt University,1
+Roskilde Cathedral School,1
+Rostov State Pedagogical University,1
+Hegdehaugen videregående skole,1
+Heath Grammar School,1
+Haverford College,1
+Harvard Law School,1
+Royal High School,1
+"Royal Holloway, University of London",1
+Hare School,1
+Harbord Collegiate Institute,1
+"Royal Naval College, Osborne",1
+Royal Swedish Academy of Fine Arts,1
+Rensselaer Polytechnic Institute,1
+Helmholtzschule,1
+Q4385762,1
+Real Academia de Bellas Artes de San Fernando,1
+Q4424937,1
+Q4465212,1
+Q47502765,1
+Q50316140,1
+Q55385873,1
+Herzliya Hebrew Gymnasium,1
+Q60142822,1
+Q60291067,1
+Q61082481,1
+Q89040614,1
+Q97279531,1
+Qazan Second Male Gymnasium,1
+Queen Mary University of London,1
+Queen Mary's Grammar School,1
+Queen's College London,1
+"Queen's College, North Adelaide",1
+Herne Bay High School,1
+Herder-Gymnasium,1
+Queens College,1
+Herbert Strutt School,1
+Helsinki University of Technology,1
+"École spéciale des travaux publics, du bâtiment et de l'industrie",1

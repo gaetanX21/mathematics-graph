@@ -1,0 +1,903 @@
+fieldOfWork,count
+mathematics,1778
+mathematical analysis,357
+number theory,276
+physics,234
+geometry,229
+algebra,221
+topology,199
+astronomy,185
+theory of differential equations,183
+probability theory,177
+mechanics,148
+differential geometry,147
+functional analysis,141
+applied mathematics,112
+group theory,106
+mathematical physics,101
+combinatorics,96
+philosophy,92
+algebraic geometry,92
+function theory,91
+mathematical logic,89
+statistics,87
+numerical analysis,66
+history of mathematics,64
+graph theory,62
+mathematical statistics,60
+set theory,56
+computer science,54
+partial differential equation,52
+logic,44
+complex analysis,44
+theoretical physics,42
+informatics,39
+mathematician,37
+economics,35
+analytic geometry,34
+cybernetics,32
+calculus of variations,32
+mathematical model,29
+algebraic topology,27
+approximation theory,25
+cryptography,25
+optics,24
+integral equation,24
+control theory,23
+game theory,22
+politics,21
+hydrodynamics,21
+pedagogy,20
+trigonometry,20
+computational mathematics,19
+geodesy,18
+geography,18
+history of science,17
+differential calculus,17
+pure mathematics,17
+philosophy of science,16
+representation theory,16
+dynamical system,16
+abstract algebra,16
+queueing theory,15
+geophysics,15
+operations research,15
+chemistry,14
+quantum mechanics,14
+arithmetic,14
+descriptive geometry,14
+applied mechanics,14
+projective geometry,14
+history,14
+model theory,14
+mathematical optimization,14
+aerodynamics,14
+medicine,14
+Lie group,14
+category theory,13
+astrophysics,13
+discrete mathematics,13
+calculus,13
+elasticity theory,13
+biology,13
+information theory,13
+theology,13
+linear algebra,12
+celestial mechanics,12
+psychology,12
+harmonic analysis,12
+measure theory,12
+literature,12
+electrical engineering,11
+philosophy of mathematics,11
+botany,11
+education,11
+linguistics,10
+stochastic process,10
+theory of relativity,10
+lattice,10
+nuclear physics,10
+artificial intelligence,10
+potential theory,10
+Lie algebra,10
+oscillation theory,9
+ergodic theory,9
+commutative algebra,9
+Galois theory,9
+epistemology,9
+general relativity,8
+translating activity,8
+fluid mechanics,8
+computer programming,8
+differential topology,8
+algebraic number theory,8
+analytical mechanics,8
+meteorology,8
+educational system,8
+engineering,8
+operator theory,8
+cartography,7
+proof theory,7
+foundations of mathematics,7
+poetry,7
+sociology,7
+geology,7
+homological algebra,7
+ethics,7
+publishing,7
+linear programming,7
+crystallography,7
+law,7
+natural science,7
+cosmology,7
+knot theory,7
+mathematical biology,6
+physicist,6
+spectral theory,6
+actuarial mathematics,6
+architecture,6
+mathematical economics,6
+mathematical finance,6
+coding theory,6
+philology,6
+experimental physics,6
+astronautics,6
+mechanical engineering,6
+ballistics,6
+non-Euclidean geometry,6
+didactic method,6
+tensor calculus,6
+Esperanto,5
+special function,5
+solid-state physics,5
+integral calculus,5
+analytic philosophy,5
+translations from French,5
+computing,5
+popular science,5
+mathematical modelling,5
+theory of computation,5
+metaphysics,5
+demography,5
+semigroup theory,5
+mineralogy,5
+opinion journalism,5
+universal algebra,5
+general topology,5
+civil engineering,5
+genetics,5
+Riemannian geometry,5
+analytic function,5
+computational complexity theory,4
+quantum physics,4
+political activity,4
+computer algebra,4
+diplomacy,4
+probability,4
+didactics of mathematics,4
+chess,4
+theoretical computer science,4
+fuzzy logic,4
+computability theory,4
+mathematics education,4
+hyperbolic geometry,4
+analytic number theory,4
+acoustics,4
+Banach space,4
+natural philosophy,4
+oriental studies,4
+geometrical optics,4
+p-adic analysis,4
+astrology,4
+ordinary differential equation,4
+astronomer,4
+matrix,4
+philosophy of language,4
+fluid dynamics,4
+aesthetics,4
+thermodynamics,4
+function,4
+real analysis,3
+quantum electrodynamics,3
+music theory,3
+library science,3
+Indology,3
+music,3
+data analysis,3
+computational linguistics,3
+zoology,3
+continuum mechanics,3
+military affairs,3
+Catholic theology,3
+magnetism,3
+mathematical method,3
+literary activity,3
+photography,3
+differential algebra,3
+kinematics,3
+finite element method,3
+physiology,3
+phenomenology,3
+polynomial,3
+population genetics,3
+Fourier series,3
+econometrics,3
+ecology,3
+dynamics,3
+history of natural science,3
+history of philosophy,3
+hydraulics,3
+vector calculus,3
+nonlinear programming,3
+evolutionary biology,3
+integral,3
+integral geometry,3
+interlinguistics,3
+jurisprudence,3
+discrete geometry,3
+history of astronomy,3
+art of painting,3
+statistical method,3
+astronomical observatory,3
+algorithm,3
+chaos theory,3
+statistical physics,3
+aircraft engineering,3
+Q113976585,3
+ring,3
+applied physics,3
+systems theory,3
+ring theory,3
+algebraic equation,3
+algebraic function,3
+archaeology,3
+art theory,3
+biometrics,3
+aviation,3
+atomic physics,2
+flexibility,2
+functional equation,2
+philosopher,2
+personality psychology,2
+fortress,2
+function of a real variable,2
+translator,2
+special relativity,2
+gas,2
+particle physics,2
+spectroscopy,2
+finance,2
+Monte Carlo method,2
+field theory,2
+bifurcation theory,2
+bioinformatics,2
+biography,2
+shipbuilding,2
+electricity,2
+electromagnetism,2
+political science,2
+elementary algebra,2
+elliptic differential equation,2
+encryption,2
+bibliology,2
+software engineering,2
+entomology,2
+physical sciences,2
+entrepreneurship,2
+physical optics,2
+physical cosmology,2
+physical chemistry,2
+software,2
+philosophy of physics,2
+orthogonal polynomials,2
+philosophy of mind,2
+optimal control,2
+statistical mechanics,2
+minimal surface,2
+linear differential equation,2
+study of history,2
+linear system,2
+literary criticism,2
+literary studies,2
+logical positivism,2
+symplectic geometry,2
+mining,2
+Theory of equations,2
+Distribution theory,2
+mathematical instrument,2
+Bayesian inference,2
+writer,2
+mathematics competition,2
+measure,2
+tensor,2
+textbook,2
+medical mathematics,2
+linear algebraic group,2
+aeromechanics,2
+aerospace engineering,2
+lattice theory,2
+applied statistics,2
+optimization method,2
+biostatistics,2
+operator algebra,2
+operating system,2
+ontology,2
+Q12047930,2
+horology,2
+hydromechanics,2
+Christian Church,2
+inequality,2
+nonstandard analysis,2
+analysis,2
+insurance industry,2
+invention,2
+journalism,2
+kinetic theory,2
+three-body problem,2
+fractal,2
+cryptanalysis,2
+descriptive set theory,2
+climbing,2
+quantum field theory,2
+cryptology,2
+school education,2
+classical electromagnetism,2
+quantum chemistry,2
+design,2
+robotics,2
+determinant,2
+secondary school textbook,2
+seismology,2
+differential game,2
+time series analysis,2
+character encoding,2
+cosmogony,2
+control system,2
+catastrophe theory,2
+computational geometry,2
+complex geometry,2
+complex number,2
+topography,2
+computational biology,2
+combinatorial game theory,2
+real number,2
+computational science,2
+cognitive psychology,2
+computer,2
+rheology,2
+cohomology,2
+cognitive science,2
+constructed language,2
+constructivism,2
+discoveries and inventions,2
+dynamical systems theory,2
+translation,2
+programming language,2
+translation into French,2
+semiotics,2
+boundary value problem,2
+dynamic meteorology,2
+drama,2
+translation into German,2
+sequence,1
+structured programming,1
+structural mechanics,1
+polyhedron,1
+radio-frequency engineering,1
+radio wave,1
+radiolocation,1
+topological group,1
+theoretical philosophy,1
+social psychiatry,1
+natural history,1
+programming language semantics,1
+study of complex systems,1
+theoretical linguistics,1
+rationalism,1
+study of the Hebrew language,1
+popular science literature,1
+supersymmetry,1
+theoretical ecology,1
+mythology,1
+radio astronomy,1
+naturalism,1
+topological dynamics,1
+nuclear reactor physics,1
+stochastic,1
+quantum topology,1
+versology,1
+nuclear bomb,1
+normal number,1
+quaternion,1
+nonlinear system,1
+simulation,1
+stochastic analysis,1
+nonlinear partial differential equation,1
+programming language translation,1
+stochastic calculus,1
+stochastic geometry,1
+violin performance,1
+signal processing,1
+theory of everything,1
+non-parametric statistics,1
+strength of materials,1
+neuroinformatics,1
+navigation,1
+real estate investing,1
+multivariate analysis,1
+surgeon,1
+teacher,1
+systems engineering,1
+relationship between religion and science,1
+systems science,1
+military building,1
+translation into Latin,1
+women's rights,1
+military,1
+predicate logic,1
+zeta function,1
+reliability engineering,1
+teaching,1
+number,1
+microeconomics,1
+principle of relativity,1
+technique,1
+telecommunications technology,1
+telescope,1
+religion,1
+meteorologist,1
+religious studies,1
+topological algebra,1
+metamathematics,1
+viticulture,1
+systems analysis,1
+vital statistics,1
+military engineering,1
+symmetry,1
+research,1
+moral theology,1
+momentum,1
+molecule,1
+molecular physics,1
+molecular biology,1
+set-theoretic topology,1
+modular form,1
+viscoelasticity,1
+missionary work,1
+visual arts,1
+system analysis,1
+program optimization,1
+positivism,1
+system dynamics,1
+system software,1
+recurrence relation,1
+military service,1
+military medicine,1
+professional translation,1
+nuclear weapon,1
+numerical integration,1
+quantum theory,1
+space group,1
+transcendental philosophy,1
+projecting,1
+permutation,1
+space technology,1
+renaissance humanism,1
+pediatrics,1
+translations from German,1
+search theory,1
+translations from Russian,1
+spatial analysis,1
+screenwriting,1
+pulmonary tuberculosis,1
+social engagement,1
+pedagogue,1
+pattern recognition,1
+trigonometric function,1
+pi,1
+plant physiology,1
+spectrometry,1
+science fiction,1
+speech recognition,1
+space research,1
+philosophical anthropology,1
+science,1
+philosophical logic,1
+social statistics,1
+pseudoscience,1
+society and politics,1
+sociobiology,1
+photogrammetry,1
+prose,1
+photoelectric effect,1
+phonetics,1
+semigroup,1
+translations from Hungarian,1
+philosophy of religion,1
+time hierarchy theorem,1
+psychiatry,1
+psychoanalysis,1
+solid-state mechanics,1
+philosophy of law,1
+psychometrics,1
+semiconductor,1
+translations from Latin,1
+sound,1
+sound recording process,1
+parasitology,1
+turbulence,1
+vector space,1
+theoretical chemistry,1
+plasticity,1
+university,1
+university teacher,1
+servomechanism,1
+statistician,1
+operational calculus,1
+value,1
+quantum group,1
+opera,1
+tradition,1
+rocket dynamics,1
+oceanography,1
+nursing,1
+numismatics,1
+numerical methods in fluid mechanics,1
+statute,1
+steam engine,1
+numerical linear algebra,1
+singularity theory,1
+theory of machines,1
+pseudo-differential operator,1
+traditional Chinese medicine,1
+optical instrument,1
+stability theory,1
+plasma physics,1
+traditional folk song,1
+oscillation,1
+turbulent flow,1
+statics,1
+puzzle,1
+thermal radiation,1
+quantitative linguistics,1
+two-element Boolean algebra,1
+ornithology,1
+origami,1
+plasma,1
+ufology,1
+organ performance,1
+thermal conduction,1
+metallurgy,1
+order theory,1
+orbital mechanics,1
+oration,1
+school inspection,1
+quantum electronics,1
+underground hydraulics,1
+series,1
+ALGOL,1
+medical research,1
+bibliographic activity,1
+artillery,1
+artist,1
+association football,1
+astrometry,1
+astronomical instrument,1
+astronomical observation,1
+astrophotography,1
+asymptotic expansion,1
+asymptotic theory,1
+atmospheric physics,1
+atmospheric sounding,1
+atom,1
+aurora polaris,1
+automata theory,1
+automatic control,1
+ballooning,1
+banking industry,1
+artificial neural network,1
+art of sculpture,1
+art historian,1
+alternative medicine,1
+acupuncture,1
+aeronautics,1
+alchemy,1
+algebraic K-theory,1
+algebraic logic,1
+algebraic variety,1
+almost periodic function,1
+analog electronics,1
+architect,1
+analysis of variance,1
+anatomy,1
+ancient astronomy,1
+ancient history,1
+anthropology,1
+applied geology,1
+applied science,1
+beekeeping,1
+bibliography,1
+computer scientist,1
+binomial distribution,1
+classical philology,1
+climatology,1
+clock,1
+cluster analysis,1
+collecting,1
+color photography,1
+combinational logic,1
+combinatorial number theory,1
+commutative ring,1
+complex dynamics,1
+complex function,1
+complex manifold,1
+computational approach,1
+computational chemistry,1
+computational fluid dynamics,1
+computational mechanics,1
+computer engineering,1
+classical geometry,1
+class field theory,1
+civil service,1
+boolean algebra,1
+biochemistry,1
+bioethics,1
+biogeography,1
+biographistics,1
+biomedical engineering,1
+biophysics,1
+board game,1
+brewing,1
+civil law,1
+business,1
+business statistics,1
+cellular automaton,1
+chemotaxis,1
+chronobiology,1
+chronometer watch,1
+circle,1
+actuarial science,1
+academy,1
+abolitionism,1
+abelian group,1
+Fish,1
+Fourier analysis,1
+French Revolution,1
+French literature,1
+Geogrefik ciy,1
+George Berkeley,1
+Gödel's incompleteness theorems,1
+Hebrew,1
+Hebrew manuscript,1
+Hebrew philology,1
+Henstock–Kurzweil integral,1
+Hesychasm,1
+Hilbert space,1
+Hilbert's fifth problem,1
+Ideal theory,1
+Integro-differential equation,1
+Johann Friedrich Herbart,1
+Euroscepticism,1
+Electronic computer,1
+Dirichlet problem,1
+Cartesianism,1
+African studies,1
+Analytical mechanics,1
+Ancient Greek,1
+Arabic studies,1
+Bayesian statistics,1
+Blavatskian theosophy,1
+Brownian motion,1
+Catholicism,1
+Crystal engineering,1
+Cauchy's theorem,1
+Christian apologetics,1
+Christian philosophy,1
+Christian theology,1
+Chronogeometry,1
+Clifford algebra,1
+Complexity theory,1
+Jones polynomial,1
+K-theory,1
+Markov process,1
+Schrödinger equation,1
+Renaissance philosophy,1
+Richter scale,1
+Riemann surface,1
+Riemannian manifold,1
+Roman Catholic dogma,1
+Russian Philology,1
+Rvachev function,1
+Second-order cybernetics,1
+Reformation,1
+Solar System,1
+Stochastic programming,1
+Talian,1
+Wave theory of light,1
+X-ray crystallography,1
+X-ray spectroscopy,1
+Zermelo–Fraenkel set theory,1
+Renaissance,1
+Ramsey theory,1
+Marxism,1
+Psychotronics,1
+Minkowski spacetime,1
+Naat,1
+Non-smooth mechanics,1
+Painlevé transcendents,1
+Petri net,1
+Practical Mechanics,1
+Protestantism,1
+Q12044504,1
+Quasiconformal mapping,1
+Q12766296,1
+Q1324964,1
+Q21656532,1
+Q23852559,1
+Q4389047,1
+Quadratic programming,1
+Quantum calculus,1
+computer graphics,1
+computer-aided design,1
+medical genetics,1
+industrial engineering,1
+Aerodynamik,1
+history of education,1
+history of literature,1
+history of logic,1
+history of physics,1
+history of seafaring,1
+holography,1
+holomorphic function,1
+homotopy theory,1
+human rights,1
+human rights in the Soviet Union,1
+humanism,1
+hydrology,1
+hypergeometric function,1
+hypergeometric series,1
+ichthyology,1
+idealism,1
+history of Japan,1
+historiography of science,1
+historiography,1
+geometric measure theory,1
+galvanism,1
+gauge theory,1
+general equilibrium theory,1
+generalized function,1
+geodetic measurement,1
+geodynamics,1
+geographic coordinate system,1
+geostatistics,1
+historic building,1
+graph algorithm,1
+gravity,1
+hadith,1
+health statistics,1
+heuristic,1
+higher education,1
+historian of science,1
+industrial control system,1
+industrial technology,1
+construction,1
+information,1
+magic square,1
+magma,1
+magnetohydrodynamics,1
+manometer,1
+manuscript,1
+mathematical cartography,1
+mathematical chemistry,1
+mathematical constant,1
+mathematical game,1
+mathematical genetics,1
+mathematical linguistics,1
+mathematical sciences,1
+mathematical singularity,1
+mathematical table,1
+matrix function,1
+measurement,1
+mechatronics,1
+macroeconomics,1
+machine translation,1
+longitude,1
+interval arithmetic,1
+information science,1
+information system,1
+information technology,1
+instrument maker,1
+instrument making,1
+international relations,1
+interstellar cloud,1
+invariant theory,1
+local administration,1
+inventor,1
+justice and judicial activities,1
+lambda calculus,1
+legal theory,1
+legislative process,1
+library administration,1
+linear operator,1
+fuzzy set,1
+functional programming,1
+fraction,1
+foundations of geometry,1
+digital signal processor,1
+disk,1
+dissent,1
+distribution,1
+distribution function,1
+dynamic programming,1
+dynamical billiards,1
+ecclesiastical law,1
+ecological economics,1
+economic methodology,1
+economics and politics,1
+economist,1
+economy,1
+editing,1
+education theory,1
+educational research,1
+educational television,1
+digital signal processing,1
+differential operator,1
+differential geometry of surfaces,1
+criminology,1
+continued fraction,1
+convex analysis,1
+convex function,1
+convex set,1
+cooperative movement,1
+counseling,1
+creative and professional writing,1
+cryptanalyst,1
+dialectical materialism,1
+cuneiform,1
+cuneiform clay tablet,1
+data mining,1
+data structure,1
+decision theory,1
+deformation theory,1
+deterministic chaos,1
+elasticity,1
+electric power distribution,1
+electrical conductance,1
+finite-state machine,1
+evolutionary genetics,1
+experimental mathematics,1
+exploration geophysics,1
+external ballistics,1
+factor analysis,1
+fatwa,1
+female education,1
+fiqh,1
+ethnographer,1
+flight testing,1
+food science,1
+formal concept analysis,1
+formal grammar,1
+formal language,1
+formalism,1
+fortification,1
+evolution,1
+error detection and correction,1
+electrical network,1
+elliptic function,1
+electrical properties,1
+electromagnetic field,1
+electron,1
+electronic data processing,1
+electronics,1
+electrostatics,1
+elliptic curve,1
+encyclopedia,1
+equation,1
+encyclopedist,1
+energy transformation,1
+engineer,1
+engineer's degree,1
+enterprise economy,1
+entrepreneur,1
+epidemiology,1
+Łukasiewicz logic,1
